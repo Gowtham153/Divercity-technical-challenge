@@ -1,4 +1,4 @@
 # Divercity-technical-challenge
-# Fashion mnist classification
-# Web scraping
+## Fashion mnist classification
+## Web scraping
 
